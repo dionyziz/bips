@@ -1,7 +1,7 @@
 <pre>
   BIP: MarcoPon-01
   Title: URI scheme for Blockchain references / exploration
-  Author: Marco Pontello
+  Author: Marco Pontello <marcopon@gmail.com>
   Status: Draft
   Type: Standards Track
   Created: 29 August 2015
@@ -60,4 +60,8 @@ From the point of view of a wallet developer (or other tool that need to show an
 Blockchain explorers in turn will simply offer to handle the blockchain: URI, the first time the user visit their website, or launch/install the application, or even set themselves if there isn't already one.
 
 Users get the convenience of using always their preferred explorer, which can be especially handy on mobile devices, where juggling with cut&paste is far from ideal.
+
+==Copyright==
+
+This document is placed in the public domain.
 
