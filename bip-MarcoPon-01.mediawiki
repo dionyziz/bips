@@ -22,7 +22,7 @@ The same happens with posts and messages that reference some particular txs or b
 
 The URI follow this simple form:
 
- <nowiki>blockchain:[//chain]</type></hash></nowiki>
+ <nowiki>blockchain:[//chain]/<type>/<hash></nowiki>
 
 Where:
 
